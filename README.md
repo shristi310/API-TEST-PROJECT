@@ -1,3 +1,6 @@
+![API Tests](https://github.com/shristi310/API-TEST-PROJECT/actions/workflows/tests.yml/badge.svg)
+
+
 # API Test Suite — JSONPlaceholder
 
 Automated REST API testing project built with Python and pytest.
